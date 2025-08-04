@@ -1,5 +1,4 @@
-# btc
-Bitcoin: A Peer-to-Peer Electronic Cash System (Discussion Paper)
+# Bitcoin: A Peer-to-Peer Electronic Cash System (Discussion Paper)
 
 
 Abstract. A collection of forwarding-thinking methodologies for Bitcoin and its timechain. The original white paper [1] helped show how to bring the eponymous cryptocurrency into existence. Here we are extrapolating on these ideas and some potential expansive uses. Realizing these ideas will be a community effort, as always.
