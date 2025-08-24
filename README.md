@@ -41,7 +41,7 @@ The current limitations of the Bitcoin scripting language hinder the implementat
 
 Let’s use a hypothetical as an example: a custom-named Y-token, which would operate much like the Lightning Network [3] does with transactions.
 
-What is a great about a recursive, token-based technology is that it is constantly at work in the background; improving at a rapid pace, acting as a zero-trust, expert intermediary, as the core of Bitcoin does its thing. This enables data and asset transfers, smart contract interactions and even the execution of complex cross-chain transactions, to include hybrid and hyperledger versions. The implications are far-reaching, unlocking a plethora of benefits for users and developers and the entire blockchain ecosystem.
+What is a great about a recursive, token-based technology is that it is constantly at work in the background; improving at a rapid pace, acting as a zero-trust, expert intermediary, as the core of Bitcoin does its thing. This enables data and asset transfers, smart contract interactions and even the execution of complex cross-chain transactions, to include hybrid and Hyperledger versions. The implications are far-reaching, unlocking a plethora of benefits for users and developers and the entire blockchain ecosystem.
 
 Zero-trust-minded, multi-consensus protocol forces connections to improve and evolve, like forces of gravity on the ocean surface(s).
 
