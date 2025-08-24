@@ -50,7 +50,7 @@ An interoperable token works much in the same way: they are multi-domain interco
 
 Going past siloed information and fragmented markets, blockocean’s oracles fetch and translate accurate, real-world data and bring it to the surface from Bitcoin to DeFi, Ethereum to NFT, seamlessly transferring tokens, deploying smart contracts across chains and unlocking possibilities previously thought not possibly; a relative field day for developers, a treasure trove for investors and a beacon of hope for a truly decentralized future.
 
-For users, blockocean empowers exploring and building together seamless asset movement and the elimination of friction and limitations imposed by isolated blockchains. Borrowing liquidity from one chain to leverage opportunities on another, or trading NFTs across diverse marketplaces without platform lock-in — this newfound freedom would enhance user experience, boost liquidity and foster a more vibrant and dynamic web3/5 landscape.
+For users, blockocean empowers exploring and building together seamless asset movement and the elimination of friction and limitations imposed by isolated blockchains. Borrowing liquidity from one chain to leverage opportunities on another, or trading NFTs across diverse marketplaces without platform lock-in — this newfound freedom would enhance user experience, boost liquidity and foster a more vibrant and dynamic web3 and web5 landscape.
 
 6. Conclusion, An Appreciation of AES/SHA-256
 
