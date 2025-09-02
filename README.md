@@ -37,7 +37,7 @@ But who is going to manage/amend the future code?
 
 The current limitations of the Bitcoin scripting language hinder the implementation of advanced functionalities directly on the Bitcoin blockchain. Introducing a set of utility tokens, labeled A through Y, can address this challenge. Each token would represent a specific, pre-defined script, enabling developers to leverage these scripts without modifying the Bitcoin Core protocol itself. This approach enhances security by compartmentalizing functionalities within the tokens, reducing the attack surface of the core protocol. Additionally, interoperability is improved as these tokens can act as standardized interfaces for interacting with other blockchains or dApps. Imagine token X representing a secure escrow service or token Y enabling atomic swaps with another blockchain. Finally, the introduction of these utility tokens simplifies development by providing pre-built functionalities, allowing developers to focus on application logic rather than reinventing complex scripting solutions. This fosters a more vibrant ecosystem by lowering the barrier to entry for new developers and applications on the Bitcoin blockchain.
 
-5. Dataocean Oracle Recursion Ops Technology for High-scaling Y-tokens (D.O.R.O.T.H.Y.)
+5. Dataocean Oracle Recursion Ops Technology for Hash-based Y-tokens (D.O.R.O.T.H.Y.)
 
 Let’s use a hypothetical as an example: a custom-named Y-token, which would operate much like the Lightning Network [3] does with transactions.
 
