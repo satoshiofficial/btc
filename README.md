@@ -17,7 +17,7 @@ But with each transaction that goes by, exponential amounts of data and informat
 
 3. .block for Web5-based, Decentralized DNS (dDNS)
 
-The current Domain Name System (DNS) poses a fundamental challenge for the decentralized nature of the Bitcoin blockchain. Web5 presents a unique opportunity to address this by creating a custom, blockchain-native DNS solution. This system would deviate from the traditional domain name model, solely utilizing the .block extension to uniquely identify entire Bitcoin blocks. This seemingly simple approach unlocks significant technical benefits on multiple fronts.
+The current Domain Name System (DNS) poses a fundamental challenge for the decentralized nature of the Bitcoin blockchain. web5 presents a unique opportunity to address this by creating a custom, blockchain-native DNS solution. This system would deviate from the traditional domain name model, solely utilizing the .block extension to uniquely identify entire Bitcoin blocks. This seemingly simple approach unlocks significant technical benefits on multiple fronts.
 
 Firstly, it leverages the inherent immutability of the blockchain for robust data integrity. By anchoring the DNS to the Merkle tree structure, each .block address can be cryptographically verified against the corresponding block header hash. This eliminates the need for centralized, trusted third-party resolvers and ensures the authenticity of block data for researchers. Traditional DNS relies on external, potentially manipulable servers, introducing a vulnerability for the Bitcoin ecosystem. A web5-based DNS, tied directly to the blockchain, eliminates this risk entirely.
 
