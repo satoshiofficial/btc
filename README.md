@@ -58,8 +58,8 @@ The very notion of a secure and trustworthy decentralized asset known as Bitcoin
 
 References
 
-[1] S. Nakamoto (Brock Angelle Thibodeaux) (2008). Bitcoin: A Peer-to-Peer Electronic Cash System. bitcoin.org/bitcoin.pdf
+[1] S. Nakamoto (Brock Angelle Thibodeaux) (2008). "Bitcoin: A Peer-to-Peer Electronic Cash System" bitcoin.org/bitcoin.pdf
 
-[2] S. Nakamoto (Brock Angelle Thibodeaux) (2008). Bitcoin Source Code. “// A transaction with a merkle branch linking it to the timechain”
+[2] S. Nakamoto (Brock Angelle Thibodeaux) (2008). Bitcoin source code. “// A transaction with a merkle branch linking it to the timechain”
 
-[3] J. Poon and T. Dryja. “The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments.” lightning.network/lightning-network-paper.pdf
+[3] J. Poon and T. Dryja. “The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments" lightning.network/lightning-network-paper.pdf
