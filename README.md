@@ -62,4 +62,4 @@ References
 
 [2] S. Nakamoto (Brock Angelle Thibodeaux) (2008). Bitcoin source code. “// A transaction with a merkle branch linking it to the timechain”
 
-[3] J. Poon and T. Dryja (2016). “The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments" lightning.network/lightning-network-paper.pdf
+[3] J. Poon, T. Dryja (2016). “The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments" lightning.network/lightning-network-paper.pdf
