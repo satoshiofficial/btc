@@ -54,7 +54,7 @@ For users, blockocean empowers exploring and building together seamless asset mo
 
 6. Conclusion, An Appreciation of AES/SHA-256
 
-The very notion of a secure and trustworthy decentralized asset known as Bitcoin would not be possible without robust, zero-trust enforcement and collaboration. Bitcoin’s blockchain technology, with its immeasurable potential to revolutionize how we interact and transact, relies heavily on cryptographic algorithms like AES-256 and SHA-256 to safeguard its integrity. AES-256, with its virtually unbreakable encryption, protects out private keys and ever-growingly-important sensitive data; while SHA-256 ensures the immutability of the blockchain itself, through its unique and irreversible hashing function.
+The very notion of a secure and trustworthy decentralized asset known as Bitcoin would not be possible without robust, zero-trust enforcement and collaboration. Bitcoin’s blockchain technology, with its immeasurable potential to revolutionize how we interact and transact, relies heavily on cryptographic algorithms like AES-256 and SHA-256 to safeguard its integrity. AES-256, with its virtually unbreakable encryption, protects our private keys and ever-growingly-important sensitive data; while SHA-256 ensures the immutability of the blockchain itself, through its unique and irreversible hashing function.
 
 References
 
